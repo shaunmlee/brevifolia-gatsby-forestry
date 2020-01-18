@@ -1,11 +1,11 @@
 ---
 date: 2020-01-18T20:11:22Z
 hero_image: "/content/images/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg"
-title: Test2
-author: Tamsin
+title: Hack Your Mortgage - How £1/day can save you over £5000
+author: Shaun
 
 ---
-_Overpaying even a tiny amount on your mortgage can save £1000s of interest and years of repayments_
+_Overpaying even a tiny amount on your mortgage can save £1000s of interest and years of repayments._
 
 All of us want the best returns on our money. We often seek out high interest savings accounts, only buy products when they’re on offer or scour second hand shops to find a bargain.
 
