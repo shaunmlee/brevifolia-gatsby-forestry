@@ -5,8 +5,6 @@ title: Hack Your Mortgage - How £1/day can save you over £5000
 author: Shaun
 
 ---
-# **Intro**
-
 All of us want the best returns on our money. We often seek out high interest savings accounts, only buy products when they’re on offer or scour second hand shops to find a bargain.
 
 But there’s one area of your finances that can have an enormous return on investment, improve your credit rating and make you mortgage free years ahead of where you’d be otherwise.
@@ -67,7 +65,7 @@ Let’s take an example of the common remortgage figure of £148,520 and assume 
 
 Our example overpayments still yield incredible results.
 
-£1/day would save you **£1,568.79** in interest and clear the mortgage **11 months** early. And £5/day would save you **£6,608.82** in interest and clear it **3 years and 11 months** early**.**
+£1/day would save you **£1,568.79** in interest and clear the mortgage **11 months** early. And £5/day would save you **£6,608.82** in interest and clear it **3 years and 11 months__ early**.**
 
 # **Wrapping it up**
 
