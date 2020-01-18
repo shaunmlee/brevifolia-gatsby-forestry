@@ -1,6 +1,6 @@
 ---
 date: 2020-01-18T19:45:13Z
-hero_image: ''
+hero_image: "/content/images/house-167734_1920.jpg"
 title: Hack Your Mortgage - How £1/day can save you over £5000
 author: Shaun
 
